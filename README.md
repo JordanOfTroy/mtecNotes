@@ -9,3 +9,4 @@
 4. git push 
 5. git log {will show you a history fo session commits.}
 
+<a href='./pages/index.html'>CLICK HERE, BRUH!<a>
